@@ -5,8 +5,6 @@
 /build
 /.pnp
 /.vscode
-/scripts
-/config
 .pnp.js
 
 # testing
