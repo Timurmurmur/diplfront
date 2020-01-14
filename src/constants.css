@@ -1,0 +1,12 @@
+:root {
+  --auth-color-blue: rgb(55, 143, 201);
+  --text-gray-color: rgba(0, 0, 0, 0.51);
+  --button-blue-bg: rgba(55, 143, 201, 0.82);
+  --border-gray: rgb(149, 152, 154);
+  --shadow-sixty: rgba(0, 0, 0, 0.16);
+  --border-black: rgba(0, 0, 0, 0.39);
+  --text-red-color: #ff7058;
+  --yellow-block: #ebba16;
+  --green-block: #069100;
+  --color-red: #ff5752;
+}
